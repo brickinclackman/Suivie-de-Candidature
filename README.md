@@ -68,7 +68,8 @@ Les champs contenant des retours à la ligne ou des espaces sont automatiquement
 
 ## 🚀 Utilisation
 
-1. Lancer l’application
+*Après avoir télécharger le fichier `Application-v1.0.rar`, et le dézipper, veuillez suivrer ces étapes.*
+1. Lancer l’application `SuiviCandidature-v1.exe`
 2. Cliquer sur **« Ajouter une entreprise »** pour enregistrer une candidature
 3. Cliquer sur **« Sauvegarder »** pour exporter les données au format CSV
 4. Cliquer sur **« Charger »** pour importer les candidatures depuis un fichier CSV
